@@ -1,0 +1,20 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+ h1{
+    /* text-align: center; */
+
+}
+div{
+    margin: 10% auto;
+    background-color: rgb(59, 158, 158);
+    width:500px;
+    height:500px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:3vw;
+    /* flex-direction: column; */
+}
